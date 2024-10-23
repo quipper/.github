@@ -7,52 +7,52 @@ assignees: ''
 
 ---
 
-**事象**
----
+## 事象(Phenomenon)
 
 
-**内容説明**
+## 内容説明(Summary)
+Summarize the phenomenon in a short sentence
 
+## 前提条件(Test precondition)
+Put test pricondition to rereproduce the issue if there are any
 
-**前提条件**
+## 再現手順(Repro steps)
+Describe step-by-step procedure to replicate the issue
 
+## 再現時に使用したデータ(Test data)
+Put link / test data itself used in the test secenario
 
-**再現手順**
+## 期待結果(Expected results)
+A clear and concise description of what you expected to happen
 
-**再現時に使用したデータ**
+## 実際の結果(Actual results)
+Describe actual results and difference from the expected results
 
-**期待結果**
-A clear and concise description of what you expected to happen.
+## 発生頻度(Frequency of occurence)
+Try at least 3 times and put frequency of occurence
 
-**実際の結果**
+## 関連テストケースIDと関連するテストケース(Test case ID / Related test case IDs)
+Put test case ID
 
-
-**発生頻度**
-
-
-**関連テストケース**
-
-
-**キャプチャ/ビデオ（Evidence）**
+## キャプチャ/ビデオ（Evidence）
 If applicable, add screenshots to help explain your problem.
 
-**テスト環境**
----
+## テスト環境(Test eenvironment)
 
-**サーバー情報**
+## サーバー情報(Server info)
 Endpoint / URL :
 
-**ディスクトップ環境情報**
+## デスクトップ環境情報(Local envirnonment info)
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
  - Version [e.g. 22]
 
-**端末環境情報**
+## 端末環境情報(Your machine spec)
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 ---
 
-**補足情報**
+## 補足情報(Additional info)
 Add any other context about the problem here.
